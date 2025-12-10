@@ -1,0 +1,16 @@
+name: "HuggingFace Dataset Explorer"
+description: "Template para explorar e analisar datasets do HuggingFace com Streamlit"
+owner:
+  name: "DGB Team"
+  email: "team@dgb.gov.br"
+category: "analytics"
+tags:
+  - "template"
+  - "huggingface"
+  - "dataset"
+  - "explorador"
+keywords: "huggingface, dataset, explorer, template, analytics"
+icon: "🤗"
+version: "1.0.0"
+repository: "https://github.com/destaquesgovbr/streamlit-template-huggingface"
+documentation: "https://github.com/destaquesgovbr/streamlit-template-huggingface/blob/main/README.md"
