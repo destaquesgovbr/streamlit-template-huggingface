@@ -8,7 +8,7 @@ on:
 env:
   PROJECT_ID: inspire-7-finep
   REGION: southamerica-east1
-  APP_NAME: my-app  # ALTERAR PARA O NOME DO SEU APP (deve ser igual ao registrado no Terraform)
+  APP_NAME: streamlit-template-huggingface  # Nome registrado no Terraform
   REGISTRY: southamerica-east1-docker.pkg.dev
   REPOSITORY: destaquesgovbr-streamlit
 
