@@ -250,7 +250,7 @@ Este é um template mantido pelo DGB Team. Para sugestões:
 
 ## Licença
 
-MIT License - veja [LICENSE](LICENSE) para detalhes
+AGPL-3.0 License - veja [LICENSE](LICENSE) para detalhes
 
 ## Suporte
 
